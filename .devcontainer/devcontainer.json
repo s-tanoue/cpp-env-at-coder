@@ -21,8 +21,7 @@
 	"extensions": [
 		"ms-vscode.cpptools",
 		"ms-vscode.cmake-tools",
-		"danielpinto8zz6.c-cpp-compile-run",
-		"GitHub.copilot"
+		"danielpinto8zz6.c-cpp-compile-run"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
