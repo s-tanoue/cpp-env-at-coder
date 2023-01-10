@@ -1,6 +1,7 @@
 # Build
 tasks.jsonを読み取って、実行する
-Windwos： Ctrl + Shift +  B
+
+Windwos： Ctrl + Shift +  B  
 Mac: Cmd + Shift + B
 
 # Execute
