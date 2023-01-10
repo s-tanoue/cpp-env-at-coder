@@ -1,6 +1,7 @@
 # Build
-Ctrl + Shift +  B
 tasks.jsonを読み取って、実行する
+Windwos： Ctrl + Shift +  B
+Mac: Cmd + Shift + B
 
 # Execute
 ./problem.exe < problem.in
